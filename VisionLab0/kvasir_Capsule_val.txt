@@ -1,0 +1,11 @@
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28975.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28975.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28960.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28960.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_29013.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_29013.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28980.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28980.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28971.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28971.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28970.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28970.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28985.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28985.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_29014.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_29014.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28969.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28969.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_29005.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_29005.jpg
+D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\images\131368cc17e44240_28996.jpg D:\JinKuang\24_8_25_Gasking\datasets\Kvasir-Capsule\masks\131368cc17e44240_28996.jpg
